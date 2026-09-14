@@ -1,8 +1,18 @@
 import sys
-print("Praktek Pemrograman Terapan - Pertemuan 1")
-print("Nama :", "___Febrianto Santoso R___")
-print("NIM :", "___33132501009___")
-print("Jurusan :", "___Teknologi Elektro___")
-print("Prodi :", "___Teknologi Rekayasa Otomasi___")
-print("JK :", "___lakik___")
+
+print("Nama Kelompok :", "Kelompok 1")
+
+print("Nama :", "Bayu")
+print("NIM :", "33132501002")
+print("Jurusan :", "Teknologi Elektro")
+print("Prodi :", "Teknologi Rekayasa Otomasi")
+print("JK :", "laki")
+
+
+print("Nama :", "Febrianto Santoso R")
+print("NIM :", "33132501009")
+print("Jurusan :", "Teknologi Elektro")
+print("Prodi :", "Teknologi Rekayasa Otomasi")
+print("JK :", "laki")
 print("Python:", sys.version)
+
